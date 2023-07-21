@@ -7,7 +7,7 @@
 
 ### Graduation Fall 2025
 
-- intern @ByteDance(Commercial Technology) @Tencent(WXG)
+- Intern @ByteDance(Commercial Technology) @Tencent(WXG)
 - Apache Shardingsphere Contributor
 - Interested in: Distributed, Cloud, Database
 
