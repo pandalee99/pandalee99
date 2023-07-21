@@ -3,11 +3,12 @@
 
 - 🔭 I’m currently studying in [USTC](http://ustc.edu)
 - 📝 I regularly write articles on [Blog](https://pandalee99.github.io/)
-- 📫 How to reach me [Email](mailto:panda.li.113@outlook.com)
+- 📫 If you want to contact me [Email](mailto:panda.li.113@outlook.com)
 
-**Graduation Fall 2025**
+### Graduation Fall 2025
 
 - intern @ByteDance(Commercial Technology) @Tencent(WXG)
+- Apache Shardingsphere Contributor
 - Interested in: Distributed, Cloud, Database
 
 
