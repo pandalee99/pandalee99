@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi 👋, I'm Li Pan
+
+### SoftWare Engineer from China
+<br>
+
+
+- 🔭 I’m currently studying in [USTC](http://ustc.edu)
+- 📝 I regularly write articles on [My Blog](https://pandalee99.github.io/)
+- 📫 How to reach me [My Email](mailto:panda.li.113@outlook.com)
+
 
 <!--
 **pandalee99/pandalee99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
