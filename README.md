@@ -8,6 +8,7 @@
 ### Graduation Fall 2025
 - Intern @Tencent(WXG) @ByteDance(Monetization Technology) 
 - Apache Shardingsphere Contributor
+- Opengoofy Hippo4j Contributor
 - Interested in: Distributed, Cloud, Database
 
 
