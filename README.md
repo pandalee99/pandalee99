@@ -6,7 +6,7 @@
 - 📫 If you want to contact me [Email](mailto:1162953505@qq.com)
 
 ### Graduation Fall 2025
-- Intern @Tencent(WXG) @ByteDance(Monetization Technology) 
+- Interned @Tencent(WXG) @ByteDance(Monetization Technology) 
 - Apache Shardingsphere Contributor
 - Opengoofy Hippo4j Contributor
 - Interested in: Distributed, Cloud, Database
