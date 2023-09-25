@@ -8,9 +8,11 @@
 ### Graduation Fall 2025
 - Interned @Tencent(WXG) @ByteDance(Monetization Technology) 
 - Apache Shardingsphere Contributor
-- Opengoofy Hippo4j Contributor
 - Interested in: Distributed, Cloud, Database
 
+<!--
+- Opengoofy Hippo4j Contributor
+>
 
 <!-- 
   C+   自取其辱
@@ -18,6 +20,7 @@
 <!-- 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pandalee99&include_all_commits=true&count_private-true&custom_title=pandalee99'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 -->
+
 
 <!-- 
 ### 技术栈
