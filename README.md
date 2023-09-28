@@ -8,6 +8,7 @@
 ### Graduation Fall 2025
 - Interned @Tencent(WXG) @ByteDance(Monetization Technology) 
 - Apache Shardingsphere Contributor
+- Apache EventMesh Contributor
 - Interested in: Distributed, Cloud, Database
 
 <!--
