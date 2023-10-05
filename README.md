@@ -9,6 +9,7 @@
 - Interned @Tencent(WXG) @ByteDance(Monetization Technology) 
 - Apache Shardingsphere Contributor
 - Apache EventMesh Contributor
+- Alipay Fury Contributor
 - Opengoofy Hippo4j Contributor
 - Interested in: Distributed, Cloud, Database
 
