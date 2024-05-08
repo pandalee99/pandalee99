@@ -9,8 +9,7 @@
 - Interned @Tencent(WXG) @ByteDance(Monetization Technology)
 - Apache Pulsar Contributor
 - Apache Shardingsphere Contributor
-- Apache EventMesh Contributor
-- Opengoofy Hippo4j Contributor
+
 - Interested in: Distributed, Cloud, Database, Quant
 
 <!--
