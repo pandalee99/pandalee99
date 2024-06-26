@@ -9,8 +9,10 @@
 - Interned @Tencent(WXG) @ByteDance(Monetization Technology)
 - Apache Pulsar Contributor
 - Apache Shardingsphere Contributor
+- Apache Fury Contributor
+- SOFA-Stack SOFA-RPC Contributor
 
-- Interested in: Distributed, Cloud, Database, Quant
+- Interested in: Distributed, Cloud, Database
 
 <!--
 - Opengoofy Hippo4j Contributor
