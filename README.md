@@ -6,13 +6,13 @@
 - 📫 If you want to contact me [Email](mailto:1162953505@qq.com)
 
 ### Graduation Fall 2025
-- Interned @Tencent(WXG) @ByteDance(Monetization Technology)
+- Interned @xiaohongshu(Engine Arch && Ray) @Tencent(WXG) @ByteDance(Monetization Technology)
 - Apache Pulsar Contributor
 - Apache Shardingsphere Contributor
 - Apache Fury Contributor
 - SOFA-Stack SOFA-RPC Contributor
 
-- Interested in: Distributed, Cloud, Database
+- Interested in: Distributed, Cloud, Database, Tensor Computation, Batch Inferrence.
 
 <!--
 - Opengoofy Hippo4j Contributor
@@ -27,9 +27,10 @@
 
 
 <!-- 
-### 技术栈
+### Tech
 
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=Java&logoColor=white)
+![Python](ttps://img.shields.io/badge/-Python-192133?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=c++&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Go-192133?style=flat-square&logo=golang&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-192133?style=flat-square&logo=spring&logoColor=white)
