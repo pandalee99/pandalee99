@@ -6,13 +6,15 @@
 - 📫 If you want to contact me [Email](mailto:1162953505@qq.com)
 
 ### Graduation Fall 2025
-- Interned @xiaohongshu(Engine Arch && Ray) @Tencent(WXG) @ByteDance(Monetization Technology)
+- Interned @xiaohongshu(Engine && Ray) @Tencent(WXG) @ByteDance(Monetization Technology)
+
+- Apache Fury Committer
+<!--
 - Apache Pulsar Contributor
 - Apache Shardingsphere Contributor
-- Apache Fury Contributor
 - SOFA-Stack SOFA-RPC Contributor
-
-- Interested in: Distributed, Cloud, Database, Tensor Computation, Batch Inferrence.
+-->
+- Interested in: Distributed computing, Search engine, Inference system.
 
 <!--
 - Opengoofy Hippo4j Contributor
