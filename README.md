@@ -1,20 +1,23 @@
 # Hi 👋, I'm Li Pan
-### Software Engineer from China
-
-- 🔭 I’m currently studying in [USTC](http://ustc.edu)
-- 📝 I regularly write articles on [Blog](https://pandalee99.github.io/)
-- 📫 If you want to contact me [Email](mailto:1162953505@qq.com)
 
 ### Graduation Fall 2025
-- Interned @xiaohongshu(Engine && Ray) @Tencent(WXG) @ByteDance(Monetization Technology)
 
+-  I’m currently studying in [USTC](http://ustc.edu)
+- Apache Software Foundation Member
 - Apache Fury Committer
+- Interned @Xiaohongshu(Engine Arch) Inference system
+- Interned @Tencent(WXG) Search engine && Ads system
+- Interned @ByteDance(Monetization Technology) CRM platform
+- Email: pandalee@apache.org, pandali.kk@qq.com
+- Interested in: Distributed computing, Search engine, Inference system.
+
+
 <!--
 - Apache Pulsar Contributor
-- Apache Shardingsphere Contributor
 - SOFA-Stack SOFA-RPC Contributor
+- Apache Shardingsphere Contributor
 -->
-- Interested in: Distributed computing, Search engine, Inference system.
+
 
 <!--
 - Opengoofy Hippo4j Contributor
