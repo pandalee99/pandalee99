@@ -3,8 +3,8 @@
 ### Graduation Fall 2025
 
 -  I’m currently studying in [USTC](http://ustc.edu)
-- Apache Software Foundation Member
 - Apache Fury Committer
+- Soon at @Bilibili(AI Infra)
 - Interned @Xiaohongshu(Engine Arch) Inference system
 - Interned @Tencent(WXG) Search engine && Ads system
 - Interned @ByteDance(Monetization Technology) CRM platform
