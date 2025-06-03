@@ -3,7 +3,7 @@
 ### Graduation Fall 2025
 
 -  I’m currently studying in [USTC](http://ustc.edu)
-- Apache Fury Committer
+- PMC/Committer of Apache Fory
 - Soon at @Bilibili(AI Infra)
 - Interned @Xiaohongshu(Engine Arch) Inference system
 - Interned @Tencent(WXG) Search engine && Ads system
