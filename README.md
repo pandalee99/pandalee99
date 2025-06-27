@@ -1,8 +1,7 @@
 # Hi 👋, I'm Li Pan
 
-### Graduation Fall 2025
+### I come from USTC
 
--  I’m currently studying in [USTC](http://ustc.edu)
 - PMC/Committer of Apache Fory
 - Soon at @Bilibili(AI Infra)
 - Interned @Xiaohongshu(Engine Arch) Inference system
